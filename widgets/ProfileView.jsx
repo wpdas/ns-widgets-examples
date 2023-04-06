@@ -8,7 +8,6 @@ const profileImage = `${IPFS_NEAR_SOCIAL_THUMBNAIL_URL}${profile.image.ipfs_cid}
 return (
   <div>
     <img src={profileImage} alt="profile avatar" />
-    <p>from Profile view</p>
     {/* Load UserNameAccountView widget */}
     <Widget
       src={"wendersonpires.near/widget/NSLVWidget"}

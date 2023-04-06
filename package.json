@@ -7,5 +7,6 @@
   },
   "devDependencies": {
     "near-social-local-viewer": "^2.0.0-rc2"
-  }
+  },
+  "license": "MIT"
 }
