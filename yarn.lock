@@ -3593,10 +3593,10 @@ near-seed-phrase@^0.2.0:
     near-hd-key "^1.2.1"
     tweetnacl "^1.0.2"
 
-near-social-local-viewer@^2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/near-social-local-viewer/-/near-social-local-viewer-2.0.0-rc2.tgz#71f1a7931a118ae103f13920e0e9f82a2f5b89e9"
-  integrity sha512-c9wYbtN2SluYWVvW36TFZq6gOxEuDAV2fTRJIzEM/8sqyovGN5aNp1JL0kFsNUPmlsUgBufp5M1l7RyFGH17SQ==
+near-social-local-viewer@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/near-social-local-viewer/-/near-social-local-viewer-2.0.0.tgz#c1a8cb879b981b14286524f283050304db1498d7"
+  integrity sha512-t/n1XeMgAL/x5DwvGX5YskY6Up+Ob2ohVb2Abuc6oDX5GAW99Z6C5f6UonF4QeJJB9f0vYgrZ1UxBtlXNb3YJg==
   dependencies:
     "@monaco-editor/react" "^4.4.6"
     "@near-wallet-selector/core" "^7.9.0"
