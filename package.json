@@ -6,7 +6,7 @@
     "start": "npx init-viewer widgets/"
   },
   "devDependencies": {
-    "near-social-local-viewer": "^2.0.0"
+    "near-social-local-viewer": "^2.0.1"
   },
   "license": "MIT"
 }
