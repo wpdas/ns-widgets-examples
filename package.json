@@ -1,0 +1,11 @@
+{
+  "name": "ns-widgets-examples",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npx init-viewer widgets/"
+  },
+  "devDependencies": {
+    "near-social-local-viewer": "^2.0.0-rc2"
+  }
+}
